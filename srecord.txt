@@ -1,21 +1,5 @@
 
 
- date : 2023-04-08
- renew_date : 2023-05-07
- name : gora mondal
- address : kol 57
- phn_no : 8956232145
- vc : 000116372356
- bill : 2304081913
- fta : 130
- pay_ch : 50
- ncf : 20
- hardware : 150
- p_due : 20
- total : 406  (406.0)
- paid : 400
- total_due : 6
-
  date : 2023-04-10
  renew_date : 2023-05-09
  name : chitram dey
@@ -64,3 +48,21 @@
  total : 374  (374.0)
  paid : 374
  total_due : 0
+
+ date : 2023-04-11
+ renew_date : 2023-05-10
+ name : samir  dey
+ address : PORICHOY APP
+KOL-57
+ phn_no : 9433439262
+ vc : 000116377870
+ bill : 2304111752
+ fta : 130
+ pay_ch : 50
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ mnth_of : 0
+ total : 236  (236.0)
+ paid : 200
+ total_due : 36
