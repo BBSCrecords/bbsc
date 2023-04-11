@@ -1,0 +1,66 @@
+
+
+ date : 2023-04-08
+ renew_date : 2023-05-07
+ name : gora mondal
+ address : kol 57
+ phn_no : 8956232145
+ vc : 000116372356
+ bill : 2304081913
+ fta : 130
+ pay_ch : 50
+ ncf : 20
+ hardware : 150
+ p_due : 20
+ total : 406  (406.0)
+ paid : 400
+ total_due : 6
+
+ date : 2023-04-10
+ renew_date : 2023-05-09
+ name : chitram dey
+ address : indralok app
+ phn_no : 7059638611
+ vc : N70917939764
+
+ bill : 2304101839
+ fta : 381
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 450  (449.5)
+ paid : 450
+ total_due : 0
+
+ date : 2023-04-11
+ renew_date : 2023-05-10
+ name : shamoli sen
+ address : kol 57
+ phn_no : 9230699348
+ vc : NILL
+ bill : 2304111003
+ fta : 130
+ pay_ch : 80
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 271  (271.4)
+ paid : 271
+ total_due : 0
+
+ date : 2023-04-11
+ renew_date : 2023-05-14
+ name : krishna sarkar
+ address : kol 57
+ phn_no : 6290282883
+ vc : 000114943418
+ bill : 2304111029
+ fta : 130
+ pay_ch : 167
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 374  (374.0)
+ paid : 374
+ total_due : 0
