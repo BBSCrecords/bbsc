@@ -66,3 +66,21 @@ KOL-57
  total : 236  (236.0)
  paid : 200
  total_due : 36
+
+ date : 2023-04-12
+ renew_date : 2023-05-11
+ name : ARINDAM  BANERJEE
+ address : 2
+NORTH NOWDA PARA
+KOL-57
+ phn_no : 8334854947
+ vc : 000116355561
+ bill : 2304121006
+ fta : 301
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 355  (355.1)
+ paid : 355
+ total_due : 0
