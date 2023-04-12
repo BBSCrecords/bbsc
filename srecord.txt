@@ -84,3 +84,21 @@ KOL-57
  total : 355  (355.1)
  paid : 355
  total_due : 0
+
+ date : 2023-03-28
+ renew_date : 2023-04-26
+ name : DIPALI  MONDAL 2
+ address : 22
+NORTH NOWDA PARA
+KOL-57
+ phn_no : 6290719943
+ vc : 000116379793
+ bill : 2304121119
+ fta : 130
+ pay_ch : 38
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 222  (221.8)
+ paid : 222
+ total_due : 0
