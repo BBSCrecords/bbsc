@@ -102,3 +102,21 @@ KOL-57
  total : 222  (221.8)
  paid : 222
  total_due : 0
+
+ date : 2023-04-12
+ renew_date : 2023-05-11
+ name : DEBDAS SAHA
+ address : 49
+B.T.ROAD
+KOL-57
+ phn_no : 9733472206
+ vc : 000116385972
+ bill : 2304121155
+ fta : 130
+ pay_ch : 98
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 316  (316.2)
+ paid : 316
+ total_due : 0
