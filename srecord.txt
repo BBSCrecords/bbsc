@@ -138,3 +138,21 @@ KOL-57
  total : 760  (760.0)
  paid : 760
  total_due : 0
+
+ date : 2023-04-14
+ renew_date : 2023-05-13
+ name : MANINDRA NATH MAHATO
+ address : 37
+S.N.PAL ROAD
+KOL-57
+ phn_no : 9432610693
+ vc : 000116383126
+ bill : 2304141023
+ fta : 381
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 450  (449.5)
+ paid : 450
+ total_due : 0
