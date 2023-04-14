@@ -156,3 +156,20 @@ KOL-57
  total : 450  (449.5)
  paid : 450
  total_due : 0
+
+ date : 2023-04-14
+ renew_date : 2023-05-13
+ name : fhfgjhgj
+ address : hf
+ phn_no : NILL
+ vc : NILL
+ bill : 2304141336
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : apr  760
+ total : 760  (760.0)
+ paid : 760
+ total_due : 0
