@@ -195,3 +195,21 @@ KOL-57
  total : 253  (252.5)
  paid : 253
  total_due : 0
+
+ date : 2023-04-14
+ renew_date : 2023-05-14
+ name : NAREN  DEY
+ address : 57
+ANUSHREE PALLY
+KOL-57
+ phn_no : 9073430109/8479992386
+ vc : 000116385022
+ bill : 2304161249
+ fta : 130
+ pay_ch : 110
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 330  (330.4)
+ paid : 330
+ total_due : 0
