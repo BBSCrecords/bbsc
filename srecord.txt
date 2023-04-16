@@ -175,20 +175,23 @@ KOL-57
  total_due : 0
 
 
-
- date : 2023-04-14
+ date : 2023-04-13
  renew_date : 2023-05-13
- name : NILL
- address : NILL
- phn_no : NILL
- vc : NILL
- bill : 2304141408
- fta : 0
- pay_ch : 0
- ncf : 0
+ name : SUBRATA GHATAK
+ address : 28/1
+B.L.GHOSH RD
+GREEN BIRD APP
+FLAT NO 102
+block -A
+KOL-57
+ phn_no : 9674639605
+ vc : 000116382318
+ bill : 2304161038
+ fta : 130
+ pay_ch : 64
+ ncf : 20
  hardware : 0
  p_due : 0
- mnth_of : april  0
- total : 0
- paid : 0
+ total : 253  (252.5)
+ paid : 253
  total_due : 0
