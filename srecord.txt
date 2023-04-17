@@ -265,3 +265,19 @@ KOL-57
  total : 825  (825.0)
  paid : 825
  total_due : 0
+
+ date : 2023-04-17
+ renew_date : 2023-05-16
+ name : swapan kr pal
+ address : kol 57
+ phn_no : NILL
+ vc : NILL
+ bill : 2304171835
+ fta : 130
+ pay_ch : 98
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 316  (316.2)
+ paid : 316
+ total_due : 0
