@@ -248,3 +248,20 @@ KOL-57
  total : 245  (245.4)
  paid : 245
  total_due : 0
+
+ date : 2023-04-17
+ renew_date : 2023-05-18
+ name : bank of india
+ address : kamarhatty branch
+ phn_no : NILL
+ vc : NILL
+ bill : 2304171110
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : april 23  825
+ total : 825  (825.0)
+ paid : 825
+ total_due : 0
