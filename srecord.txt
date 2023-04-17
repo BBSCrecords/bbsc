@@ -281,3 +281,20 @@ KOL-57
  total : 316  (316.2)
  paid : 316
  total_due : 0
+
+ date : 2023-04-17
+ renew_date : 2023-05-16
+ name : LALON  HELA/BISHAL HELA
+ address : ADDYA MAA
+KOL-57
+ phn_no : 9804788816
+ vc : 000116353285
+ bill : 2304171838
+ fta : 130
+ pay_ch : 150
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 378  (377.6)
+ paid : 378
+ total_due : 0
