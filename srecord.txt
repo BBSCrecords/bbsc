@@ -231,3 +231,20 @@ KOL-57
  total : 222  (221.9)
  paid : 222
  total_due : 0
+
+ date : 2023-04-17
+ renew_date : 2023-05-16
+ name : SUNIL  DAS
+ address : LOKNATH ABASON
+KOL-57
+ phn_no : 9433854614
+ vc : 000116379835
+ bill : 2304171049
+ fta : 130
+ pay_ch : 58
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 245  (245.4)
+ paid : 245
+ total_due : 0
