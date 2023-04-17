@@ -298,3 +298,21 @@ KOL-57
  total : 378  (377.6)
  paid : 378
  total_due : 0
+
+ date : 2023-04-17
+ renew_date : 2023-05-09
+ name : PROSENJIT  MONDAL
+ address : 65
+NORTH NOWDA PARA
+KOL-57
+ phn_no : 9007946563
+ vc : 000116377276
+ bill : 2304171925
+ fta : 130
+ pay_ch : 143.2
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 370  (369.5)
+ paid : 370
+ total_due : 0
