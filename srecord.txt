@@ -213,3 +213,21 @@ KOL-57
  total : 330  (330.4)
  paid : 330
  total_due : 0
+
+ date : 2023-04-17
+ renew_date : 2023-05-17
+ name : PRIYA  CHOWDHURY
+ address : 26/5
+B.L.GHOSH ROAD
+KOL-57
+ phn_no : 7687011423/9748909359
+ vc : 000116354770
+ bill : 2304171021
+ fta : 130
+ pay_ch : 38.10
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 222  (221.9)
+ paid : 222
+ total_due : 0
