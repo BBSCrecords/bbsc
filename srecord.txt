@@ -351,3 +351,19 @@ KOL-57
  total : 300  (299.7)
  paid : 300
  total_due : 0
+
+ date : 2023-04-3
+ renew_date : 2023-05-3
+ name : meena dey
+ address : SANGHAMITRA
+ phn_no : 6289639186
+ vc : 000116354457
+ bill : 2304191931
+ fta : 130
+ pay_ch : 47
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 232  (232.4)
+ paid : 232
+ total_due : 0
