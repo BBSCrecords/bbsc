@@ -333,3 +333,21 @@ KOL-57
  total : 320  (319.7)
  paid : 320
  total_due : 0
+
+ date : 2023-04-11
+ renew_date : 2023-05-11
+ name : SUBIR CHAKRABORTY
+ address : 46
+B.L.GHOSH ROAD
+KOL-57
+ phn_no : 8910903321
+ vc : 000116380866
+ bill : 2304191928
+ fta : 254
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 300  (299.7)
+ paid : 300
+ total_due : 0
