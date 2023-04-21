@@ -367,3 +367,20 @@ KOL-57
  total : 232  (232.4)
  paid : 232
  total_due : 0
+
+ date : 2023-04-21
+ renew_date : 2023-05-20
+ name : SMITA GANGULI(AMIYA SANKAR )
+ address : ADDYA MAA
+KOL-57
+ phn_no : 9433233927
+ vc : 000116352998
+ bill : 2304210959
+ fta : 220
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 260  (259.6)
+ paid : 260
+ total_due : 0
