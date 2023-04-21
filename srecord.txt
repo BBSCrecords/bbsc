@@ -384,3 +384,20 @@ KOL-57
  total : 260  (259.6)
  paid : 260
  total_due : 0
+
+ date : 2023-04-21
+ renew_date : 2023-05-20
+ name : SANDIP GUPTA/BANTY  GUPTA
+ address : PORICHOY APP
+KOL-57
+ phn_no : 8777593835
+ vc : 000116378480
+ bill : 2304211148
+ fta : 313.4
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.8)
+ paid : 370
+ total_due : 0
