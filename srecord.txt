@@ -401,3 +401,20 @@ KOL-57
  total : 370  (369.8)
  paid : 370
  total_due : 0
+
+ date : 2023-04-22
+ renew_date : 2023-05-24
+ name : DEBDEEP  SARKAR
+ address : KING TOWER
+KOL-57
+ phn_no : 9804044413
+ vc : 000116377029
+ bill : 2304220955
+ fta : 130
+ pay_ch : 70
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 260  (259.6)
+ paid : 260
+ total_due : 0
