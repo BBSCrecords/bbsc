@@ -418,3 +418,19 @@ KOL-57
  total : 260  (259.6)
  paid : 260
  total_due : 0
+
+ date : 2023-04-22
+ renew_date : 2023-05-22
+ name : ajit kr saha
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2304231119
+ fta : 130
+ pay_ch : 87
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 280
+ total_due : 0
