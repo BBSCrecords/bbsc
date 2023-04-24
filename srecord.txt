@@ -434,3 +434,21 @@ KOL-57
  total : 280  (279.6)
  paid : 280
  total_due : 0
+
+ date : 2023-04-24
+ renew_date : 2023-04-25
+ name : HIMANGSHU chakraborty
+ address : 17M
+S.N.PAL RD
+KOL-57
+ phn_no : 8013863334
+ vc : 000116355298
+ bill : 2304241000
+ fta : 130
+ pay_ch : 138
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 363  (363.4)
+ paid : 363
+ total_due : 0
