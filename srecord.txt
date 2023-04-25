@@ -452,3 +452,21 @@ KOL-57
  total : 363  (363.4)
  paid : 363
  total_due : 0
+
+ date : 2023-04-25
+ renew_date : 2023-05-24
+ name : SUBIR  MUKHERJEE
+ address : 7
+NORTH NOWDA PARA
+KOL-57
+ phn_no : 7439041991
+ vc : 000116355207
+ bill : 2304251118
+ fta : 130
+ pay_ch : 130
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 330  (330.4)
+ paid : 330
+ total_due : 0
