@@ -507,3 +507,20 @@ KOL-57
  total : 300  (300.0)
  paid : 300
  total_due : 0
+
+ date : 2023-04-26
+ renew_date : 2023-05-25
+ name : RANJEET  GHOSH
+ address : PORICHOY APP
+KOL-57
+ phn_no : 9830786982
+ vc : 000116353095
+ bill : 2304261830
+ fta : 271
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 320  (319.7)
+ paid : 320
+ total_due : 0
