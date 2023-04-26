@@ -470,3 +470,21 @@ KOL-57
  total : 330  (330.4)
  paid : 330
  total_due : 0
+
+ date : 2023-04-26
+ renew_date : 2023-05-25
+ name : UDAY SANKAR PATHAK
+ address : 4A
+NORTH NOWDA PARA
+KOL-57
+ phn_no : 9433409887
+ vc : 000116353772
+ bill : 2304261038
+ fta : 130
+ pay_ch : 80.20
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 272  (271.6)
+ paid : 272
+ total_due : 0
