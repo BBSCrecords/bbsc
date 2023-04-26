@@ -488,3 +488,22 @@ KOL-57
  total : 272  (271.6)
  paid : 272
  total_due : 0
+
+ date : 2023-04-26
+ renew_date : 2023-04-27
+ name : SITAL  SANTRA
+ address : 21
+NORTH NOWDA PARA
+KOL-57
+ phn_no : 9903602098
+ vc : 000116353715                
+ bill : 2304261131
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : march  300
+ total : 300  (300.0)
+ paid : 300
+ total_due : 0
