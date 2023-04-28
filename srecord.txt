@@ -541,3 +541,21 @@ KOL-57
  total : 154  (153.5)
  paid : 154
  total_due : 0
+
+ date : 2023-04-28
+ renew_date : 2023-05-27
+ name : BULA  MUKHERJEE
+ address : 50
+NORTH NOWDA PARA
+KOL-57
+ phn_no : 9830189385
+ vc : 000116379256
+ bill : 2304281038
+ fta : 130
+ pay_ch : 58
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 245  (245.4)
+ paid : 245
+ total_due : 0
