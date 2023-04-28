@@ -559,3 +559,20 @@ KOL-57
  total : 245  (245.4)
  paid : 245
  total_due : 0
+
+ date : 2023-04-28
+ renew_date : 2023-05-27
+ name : Mihir Mukherjee
+ address : LOPAMUDRA APP
+KOL-57
+ phn_no : 9433571726
+ vc : 000116378993
+ bill : 2304281112
+ fta : 130
+ pay_ch : 83
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 275  (274.9)
+ paid : 275
+ total_due : 0
