@@ -593,3 +593,21 @@ ANUSHREEPALLY
  total : 430  (429.5)
  paid : 430
  total_due : 0
+
+ date : 2023-04-28
+ renew_date : 2023-05-27
+ name : rameswar  das
+ address : 49
+B.T.ROAD
+KOL-57
+ phn_no : 9804023881
+ vc : 000116380007
+ bill : 2304281922
+ fta : 313.5
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.9)
+ paid : 370
+ total_due : 0
