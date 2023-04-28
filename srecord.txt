@@ -576,3 +576,20 @@ KOL-57
  total : 275  (274.9)
  paid : 275
  total_due : 0
+
+ date : 2023-04-28
+ renew_date : 2023-05-27
+ name : KAMOL PATRA
+ address : LALTUDAR FLAT
+ANUSHREEPALLY
+ phn_no : 8910841107
+ vc : 000116379744
+ bill : 2304281247
+ fta : 130
+ pay_ch : 194
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 430  (429.5)
+ paid : 430
+ total_due : 0
