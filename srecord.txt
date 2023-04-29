@@ -647,3 +647,21 @@ KOL-57
  total : 460  (460.2)
  paid : 460
  total_due : 0
+
+ date : 2023-04-29
+ renew_date : 2023-05-28
+ name : NARESH  KUNDU
+ address : 70
+North Nawdapara rd RD
+KOL-57
+ phn_no : 9836111028
+ vc : 000116381138
+ bill : 2304291028
+ fta : 288
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 340  (339.8)
+ paid : 340
+ total_due : 0
