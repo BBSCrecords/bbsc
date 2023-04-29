@@ -611,3 +611,21 @@ KOL-57
  total : 370  (369.9)
  paid : 370
  total_due : 0
+
+ date : 2023-04-29
+ renew_date : 2023-05-28
+ name : SHIBU RAI/JIKU
+ address : 62
+ANUSHREE PALLY
+KOL-57
+ phn_no : 9007126208
+ vc : 000116383290
+ bill : 2304291001
+ fta : 130
+ pay_ch : 118
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 340  (339.8)
+ paid : 340
+ total_due : 0
