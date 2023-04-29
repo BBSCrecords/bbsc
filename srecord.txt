@@ -629,3 +629,21 @@ KOL-57
  total : 340  (339.8)
  paid : 340
  total_due : 0
+
+ date : 2023-04-29
+ renew_date : 2023-05-28
+ name : KAJAL PRIYA BAL
+ address : 30
+S.N.PAL RD
+KOL-57
+ phn_no : 8017735970
+ vc : 000116379942
+ bill : 2304291021
+ fta : 390
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 460  (460.2)
+ paid : 460
+ total_due : 0
