@@ -665,3 +665,20 @@ KOL-57
  total : 340  (339.8)
  paid : 340
  total_due : 0
+
+ date : 2023-04-11
+ renew_date : 2023-05-11
+ name : cadmach machinary co.pvt.ltd
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2304291821
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : april 2023  585
+ total : 585  (585.0)
+ paid : 585
+ total_due : 0
