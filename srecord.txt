@@ -700,3 +700,19 @@ KOL-57
  total : 370  (369.5)
  paid : 370
  total_due : 0
+
+ date : 2023-04-30
+ renew_date : 2023-05-29
+ name : bulbul  sengupta
+ address : LABONYO NIKETAN
+ phn_no : 9830844892
+ vc : 000116382854
+ bill : 2304301143
+ fta : 130
+ pay_ch : 132
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 333  (332.7)
+ paid : 330
+ total_due : 3
