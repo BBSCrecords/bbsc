@@ -716,3 +716,19 @@ KOL-57
  total : 333  (332.7)
  paid : 330
  total_due : 3
+
+ date : 2023-05-01
+ renew_date : 2023-05-30
+ name : SHARMISTHA DUTTA
+ address : ALOKANANDA APPARTMENT
+ phn_no : NILL
+ vc : NILL
+ bill : 2305011113
+ fta : 322
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 380  (379.9)
+ paid : 380
+ total_due : 0
