@@ -732,3 +732,20 @@ KOL-57
  total : 380  (379.9)
  paid : 380
  total_due : 0
+
+ date : 2023-05-01
+ renew_date : 2023-05-30
+ name : '000116383944
+ address : NARAYAN  GHOSH
+ phn_no : 9883338165
+ vc : 5945038218983218
+ bill : 2305011859
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 100
+ total : 100  (100.0)
+ paid : 50
+ advance : 50
+ total_due : 0
