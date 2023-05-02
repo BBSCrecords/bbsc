@@ -768,3 +768,20 @@ KOL-57
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-04-30
+ renew_date : 2023-05-26
+ name : sanjib chatterjee
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305021026
+ fta : 130
+ pay_ch : 87
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 280
+ advance : 0
+ total_due : 0
