@@ -836,3 +836,20 @@ KOL-57
  paid : 510
  advance : 0
  total_due : 0
+
+ date : 2023-05-02
+ renew_date : 2023-05-31
+ name : sibani das
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305021128
+ fta : 130
+ pay_ch : 262
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ mnth_of : may 23  585
+ total : 1095  (1094.7)
+ advance : 0
+ total_due : 0
