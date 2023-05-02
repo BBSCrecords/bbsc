@@ -853,3 +853,20 @@ KOL-57
  total : 1095  (1094.7)
  advance : 0
  total_due : 0
+
+ date : 2023-05-02
+ renew_date : 2023-05-31
+ name : manju sikdar
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305021144
+ fta : 130
+ pay_ch : 113
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 310  (310.3)
+ paid : 310
+ advance : 0
+ total_due : 0
