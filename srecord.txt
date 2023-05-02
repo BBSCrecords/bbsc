@@ -802,3 +802,20 @@ KOL-57
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-05-02
+ renew_date : 2023-05-31
+ name : alok pal
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305021114
+ fta : 130
+ pay_ch : 121.25
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 320  (320.0)
+ paid : 320
+ advance : 0
+ total_due : 0
