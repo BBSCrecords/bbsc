@@ -904,3 +904,20 @@ KOL-57
  paid : 222
  advance : 0
  total_due : 0
+
+ date : 2023-05-03
+ renew_date : 2023-06-01
+ name : anil oraw
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305031158
+ fta : 314.5
+ pay_ch : 33
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 410  (410.0)
+ paid : 410
+ advance : 0
+ total_due : 0
