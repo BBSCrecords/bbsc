@@ -921,3 +921,20 @@ KOL-57
  paid : 410
  advance : 0
  total_due : 0
+
+ date : 2023-05-03
+ renew_date : 2023-05-30
+ name : chandra gupta chowdhury
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305031850
+ fta : 330.1
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 390  (389.5)
+ paid : 390
+ advance : 0
+ total_due : 0
