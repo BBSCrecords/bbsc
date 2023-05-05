@@ -955,3 +955,20 @@ KOL-57
  paid : 300
  advance : 0
  total_due : 0
+
+ date : 2023-05-05
+ renew_date : 2023-06-03
+ name : sukamal kanti ghosh
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305051901
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : april 23  580
+ total : 580  (580.0)
+ advance : 0
+ total_due : 0
