@@ -1006,3 +1006,20 @@ KOL-57
  paid : 350
  advance : 0
  total_due : 0
+
+ date : 2023-05-06
+ renew_date : 2023-06-04
+ name : joyanta hazari
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305061119
+ fta : 237
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 250
+ advance : 0
+ total_due : 30
