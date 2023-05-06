@@ -989,3 +989,20 @@ KOL-57
  total : 340  (340.0)
  advance : 0
  total_due : 0
+
+ date : 2023-05-06
+ renew_date : 2023-06-04
+ name : avijit das
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305061103
+ fta : 297
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 350  (350.4)
+ paid : 350
+ advance : 0
+ total_due : 0
