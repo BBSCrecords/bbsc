@@ -1040,3 +1040,20 @@ KOL-57
  paid : 260
  advance : 0
  total_due : 0
+
+ date : 2023-05-06
+ renew_date : 2023-06-04
+ name : anil saha
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305061219
+ fta : 327
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 386  (385.8)
+ paid : 386
+ advance : 0
+ total_due : 0
