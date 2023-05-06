@@ -1023,3 +1023,20 @@ KOL-57
  paid : 250
  advance : 0
  total_due : 30
+
+ date : 2023-05-06
+ renew_date : 2023-06-04
+ name : supati bhattacharjee
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305061217
+ fta : 130
+ pay_ch : 70
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 260  (259.6)
+ paid : 260
+ advance : 0
+ total_due : 0
