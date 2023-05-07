@@ -1142,3 +1142,20 @@ KOL-57
  paid : 320
  advance : 0
  total_due : 0
+
+ date : 2023-05-07
+ renew_date : 2023-06-03
+ name : MITHILESH UPOPADHYA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305071217
+ fta : 390
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 460  (460.2)
+ paid : 460
+ advance : 0
+ total_due : 0
