@@ -1125,3 +1125,20 @@ KOL-57
  paid : 320
  advance : 0
  total_due : 0
+
+ date : 2023-05-07
+ renew_date : 2023-06-05
+ name : ashok nandi
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305071204
+ fta : 130
+ pay_ch : 101
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 320  (319.7)
+ paid : 320
+ advance : 0
+ total_due : 0
