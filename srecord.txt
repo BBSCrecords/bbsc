@@ -1057,3 +1057,20 @@ KOL-57
  paid : 386
  advance : 0
  total_due : 0
+
+ date : 2023-05-07
+ renew_date : 2023-06-05
+ name : gopal chakraborty
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305070945
+ fta : 130
+ pay_ch : 62
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 250  (250.1)
+ paid : 250
+ advance : 0
+ total_due : 0
