@@ -1108,3 +1108,20 @@ KOL-57
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-05-07
+ renew_date : 2023-06-05
+ name : bijay debnath
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305071112
+ fta : 271
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 320  (319.7)
+ paid : 320
+ advance : 0
+ total_due : 0
