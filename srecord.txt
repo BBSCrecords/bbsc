@@ -1210,3 +1210,20 @@ KOL-57
  paid : 240
  advance : 0
  total_due : 0
+
+ date : 2023-05-08
+ renew_date : 2023-06-06
+ name : NILL
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305081005
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 0
+ paid : 0
+ advance : 0
+ total_due : 0
