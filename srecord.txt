@@ -1261,3 +1261,20 @@ KOL-57
  paid : 350
  advance : 0
  total_due : 0
+
+ date : 2023-05-08
+ renew_date : 2023-06-06
+ name : chandra bhusan kumar
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305081912
+ fta : 313.2
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.5)
+ paid : 370
+ advance : 0
+ total_due : 0
