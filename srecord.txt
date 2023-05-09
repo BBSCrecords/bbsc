@@ -1295,3 +1295,20 @@ KOL-57
  paid : 380
  advance : 0
  total_due : 0
+
+ date : 2023-05-09
+ renew_date : 2023-06-07
+ name : GORA MONDAL
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305091219
+ fta : 322
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 380  (379.9)
+ paid : 380
+ advance : 0
+ total_due : 0
