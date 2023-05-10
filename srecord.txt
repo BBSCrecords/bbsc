@@ -1329,3 +1329,20 @@ KOL-57
  paid : 260
  advance : 0
  total_due : 0
+
+ date : 2023-05-10
+ renew_date : 2023-06-08
+ name : chitram dey
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305101838
+ fta : 390
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 460  (460.2)
+ paid : 0
+ advance : 0
+ total_due : 460
