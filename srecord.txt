@@ -1312,3 +1312,20 @@ KOL-57
  paid : 380
  advance : 0
  total_due : 0
+
+ date : 2023-05-10
+ renew_date : 2023-06-08
+ name : tarak dasgupta
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305101826
+ fta : 220
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 260  (259.6)
+ paid : 260
+ advance : 0
+ total_due : 0
