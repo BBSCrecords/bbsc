@@ -1397,3 +1397,20 @@ KOL-57
  paid : 271
  advance : 0
  total_due : 0
+
+ date : 2023-05-12
+ renew_date : 2023-06-10
+ name : TARAK SIKDAR
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305121244
+ fta : 130
+ pay_ch : 19.20
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 200  (199.6)
+ paid : 200
+ advance : 0
+ total_due : 0
