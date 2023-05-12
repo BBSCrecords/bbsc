@@ -1414,3 +1414,20 @@ KOL-57
  paid : 200
  advance : 0
  total_due : 0
+
+ date : 2023-05-12
+ renew_date : 2023-06-10
+ name : DEBDAS SAHA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305121246
+ fta : 313.4
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.8)
+ paid : 370
+ advance : 0
+ total_due : 0
