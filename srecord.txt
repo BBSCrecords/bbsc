@@ -1448,3 +1448,20 @@ KOL-57
  paid : 460
  advance : 0
  total_due : 0
+
+ date : 2023-05-16
+ renew_date : 2023-06-14
+ name : SHAM KABITHIYA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305161919
+ fta : 339
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 400  (400.0)
+ paid : 400
+ advance : 0
+ total_due : 0
