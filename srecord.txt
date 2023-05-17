@@ -1465,3 +1465,20 @@ KOL-57
  paid : 400
  advance : 0
  total_due : 0
+
+ date : 2023-05-17
+ renew_date : 2023-06-15
+ name : abhijit ghosh
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305171814
+ fta : 237
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 280
+ advance : 0
+ total_due : 0
