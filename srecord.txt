@@ -1550,3 +1550,21 @@ KOL-57
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-05-18
+ renew_date : 2023-06-16
+ name : BANK OF INDIA
+ address : B.T.ROAD
+KOLKATA 58
+ phn_no : NILL
+ vc : NILL
+ bill : 2305181246
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : MAY'2023  825
+ total : 825  (825.0)
+ advance : 0
+ total_due : 0
