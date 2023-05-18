@@ -1568,3 +1568,20 @@ KOLKATA 58
  total : 825  (825.0)
  advance : 0
  total_due : 0
+
+ date : 2023-05-18
+ renew_date : 2023-06-16
+ name : NILL
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305181248
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : MAY 23/401130110000123  0
+ total : 0
+ advance : 0
+ total_due : 0
