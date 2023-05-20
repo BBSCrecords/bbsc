@@ -1670,3 +1670,20 @@ KOLKATA 58
  total : 970  (969.9)
  advance : 0
  total_due : 0
+
+ date : 2023-05-20
+ renew_date : 2023-06-18
+ name : SURENDER LOHAR
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305201927
+ fta : 130
+ pay_ch : 87
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 280
+ advance : 0
+ total_due : 0
