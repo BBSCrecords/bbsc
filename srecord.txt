@@ -1636,3 +1636,20 @@ KOLKATA 58
  paid : 350
  advance : 0
  total_due : 0
+
+ date : 2023-05-19
+ renew_date : 2023-06-17
+ name : BIREN SAMANTA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305201832
+ fta : 130
+ pay_ch : 130.1
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 331  (330.5)
+ paid : 331
+ advance : 0
+ total_due : 0
