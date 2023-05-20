@@ -1687,3 +1687,20 @@ KOLKATA 58
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-05-20
+ renew_date : 2023-06-19
+ name : K CHATTERJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305201928
+ fta : 130
+ pay_ch : 163.2
+ ncf : 20
+ hardware : 0
+ p_due : 10
+ total : 380  (379.5)
+ paid : 380
+ advance : 0
+ total_due : 0
