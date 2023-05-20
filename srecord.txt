@@ -1602,3 +1602,20 @@ KOLKATA 58
  paid : 320
  advance : 0
  total_due : 0
+
+ date : 2023-05-15
+ renew_date : 2023-06-13
+ name : NAREN DEY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305201222
+ fta : 130
+ pay_ch : 127
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 350  (350.4)
+ paid : 350
+ advance : 0
+ total_due : 0
