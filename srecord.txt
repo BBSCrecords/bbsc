@@ -1619,3 +1619,20 @@ KOLKATA 58
  paid : 350
  advance : 0
  total_due : 0
+
+ date : 2023-05-20
+ renew_date : 2023-06-18
+ name : SANKAR BOSE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305201223
+ fta : 130
+ pay_ch : 127
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 350  (350.4)
+ paid : 350
+ advance : 0
+ total_due : 0
