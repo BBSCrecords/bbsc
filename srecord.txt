@@ -1721,3 +1721,20 @@ KOLKATA 58
  paid : 260
  advance : 0
  total_due : 0
+
+ date : 2023-05-21
+ renew_date : 2023-06-19
+ name : BANTY GUPTA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305211214
+ fta : 313.3
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.6)
+ paid : 370
+ advance : 0
+ total_due : 0
