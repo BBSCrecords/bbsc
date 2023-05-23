@@ -1755,3 +1755,20 @@ KOLKATA 58
  total : 370  (370.0)
  advance : 0
  total_due : 0
+
+ date : 2023-05-23
+ renew_date : 2023-06-21
+ name : subir mukherjee
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305231022
+ fta : 130
+ pay_ch : 130
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 330  (330.4)
+ paid : 330
+ advance : 0
+ total_due : 0
