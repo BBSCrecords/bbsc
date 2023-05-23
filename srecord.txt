@@ -1772,3 +1772,20 @@ KOLKATA 58
  paid : 330
  advance : 0
  total_due : 0
+
+ date : 2023-05-23
+ renew_date : 2023-06-24
+ name : DEBDEEP SARKAR
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305231138
+ fta : 130
+ pay_ch : 70
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 260  (259.6)
+ paid : 260
+ advance : 0
+ total_due : 0
