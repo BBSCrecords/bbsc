@@ -1857,3 +1857,20 @@ KOLKATA 58
  paid : 330
  advance : 0
  total_due : 0
+
+ date : 2023-05-26
+ renew_date : 2023-06-24
+ name : SITAL SANTRA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305261124
+ fta : 280
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 20
+ total : 350  (350.4)
+ paid : 350
+ advance : 0
+ total_due : 0
