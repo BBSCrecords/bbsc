@@ -1942,3 +1942,20 @@ KOLKATA 58
  paid : 330
  advance : 0
  total_due : 0
+
+ date : 2023-05-27
+ renew_date : 2023-06-26
+ name : SUBIR SENGUPTA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305271203
+ fta : 130
+ pay_ch : 96
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 290  (290.2)
+ paid : 290
+ advance : 0
+ total_due : 0
