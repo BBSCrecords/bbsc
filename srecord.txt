@@ -1976,3 +1976,20 @@ KOLKATA 58
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-05-27
+ renew_date : 2023-06-27
+ name : BULA MUKHERJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305271917
+ fta : 130
+ pay_ch : 58
+ ncf : 20
+ hardware : 0
+ p_due : 1
+ total : 246  (246.4)
+ paid : 246
+ advance : 0
+ total_due : 0
