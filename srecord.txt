@@ -2129,3 +2129,20 @@ KOLKATA 58
  paid : 154
  advance : 0
  total_due : 0
+
+ date : 2023-05-28
+ renew_date : 2023-06-29
+ name : BULBUL SENGUPTA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305281835
+ fta : 130
+ pay_ch : 112
+ ncf : 20
+ hardware : 0
+ p_due : 2
+ total : 311  (311.1)
+ paid : 311
+ advance : 0
+ total_due : 0
