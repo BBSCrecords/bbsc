@@ -2095,3 +2095,20 @@ KOLKATA 58
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-05-28
+ renew_date : 2023-06-26
+ name : MENOKA SADHUKHA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305281222
+ fta : 220
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 9
+ total : 269  (268.6)
+ paid : 269
+ advance : 0
+ total_due : 0
