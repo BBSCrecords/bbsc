@@ -2112,3 +2112,20 @@ KOLKATA 58
  paid : 269
  advance : 0
  total_due : 0
+
+ date : 2023-05-28
+ renew_date : 2023-06-27
+ name : RUMPA ROY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305281824
+ fta : 130
+ pay_ch : .1
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 154  (153.5)
+ paid : 154
+ advance : 0
+ total_due : 0
