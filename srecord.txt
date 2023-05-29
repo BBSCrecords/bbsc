@@ -2163,3 +2163,20 @@ KOLKATA 58
  paid : 340
  advance : 0
  total_due : 0
+
+ date : 2023-05-29
+ renew_date : 2023-06-28
+ name : jhuma hatterjee
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305291936
+ fta : 130
+ pay_ch : 104
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 300  (299.7)
+ paid : 300
+ advance : 0
+ total_due : 0
