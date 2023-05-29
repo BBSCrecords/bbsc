@@ -2146,3 +2146,20 @@ KOLKATA 58
  paid : 311
  advance : 0
  total_due : 0
+
+ date : 2023-05-29
+ renew_date : 2023-06-28
+ name : NARESH KUNDU
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305291016
+ fta : 288
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 340  (339.8)
+ paid : 340
+ advance : 0
+ total_due : 0
