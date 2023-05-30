@@ -2180,3 +2180,20 @@ KOLKATA 58
  paid : 300
  advance : 0
  total_due : 0
+
+ date : 2023-05-30
+ renew_date : 2023-06-27
+ name : shibu rai
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305301025
+ fta : 313.2
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.5)
+ paid : 370
+ advance : 0
+ total_due : 0
