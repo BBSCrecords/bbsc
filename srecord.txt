@@ -2214,3 +2214,20 @@ KOLKATA 58
  total : 585  (585.0)
  advance : 0
  total_due : 0
+
+ date : 2023-05-31
+ renew_date : 2023-06-29
+ name : MANOJ GIRI
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2305311848
+ fta : 130
+ pay_ch : 44.95
+ ncf : 20
+ hardware : 500
+ p_due : 0
+ total : 730  (730.0)
+ paid : 730
+ advance : 0
+ total_due : 0
