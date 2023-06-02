@@ -2350,3 +2350,20 @@ KOLKATA 58
  total : 240  (239.5)
  advance : 0
  total_due : 0
+
+ date : 2023-06-02
+ renew_date : 2023-06-26
+ name : SHYAMOL CHAKRABORTY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306021152
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : MAY 23  370
+ total : 370  (370.0)
+ advance : 0
+ total_due : 0
