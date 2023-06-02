@@ -2248,3 +2248,20 @@ KOLKATA 58
  total : 520  (520.0)
  advance : 0
  total_due : 0
+
+ date : 2023-06-02
+ renew_date : 2023-07-01
+ name : BALI RAM YADAV
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306021001
+ fta : 313.2
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.5)
+ paid : 370
+ advance : 0
+ total_due : 0
