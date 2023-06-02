@@ -2299,3 +2299,20 @@ KOLKATA 58
  total : 280  (280.0)
  advance : 0
  total_due : 0
+
+ date : 2023-06-02
+ renew_date : 2023-07-01
+ name : SANGITA MUKHERJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306021048
+ fta : 130
+ pay_ch : 36.50
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 220  (220.0)
+ paid : 220
+ advance : 0
+ total_due : 0
