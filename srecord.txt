@@ -2401,3 +2401,20 @@ KOLKATA 58
  total : 670  (670.0)
  advance : 0
  total_due : -20
+
+ date : 2023-06-02
+ renew_date : 2023-06-30
+ name : RAJU NATH
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306021852
+ fta : 390
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : NILL  0
+ total : 460  (460.2)
+ advance : 0
+ total_due : 0
