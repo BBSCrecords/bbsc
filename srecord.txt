@@ -2469,3 +2469,20 @@ KOLKATA 58
  paid : 320
  advance : 0
  total_due : 0
+
+ date : 2023-06-03
+ renew_date : 2023-07-02
+ name : NIPENDRA NATH MAITY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306031800
+ fta : 130
+ pay_ch : 147
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 350  (350.4)
+ paid : 350
+ advance : 0
+ total_due : 0
