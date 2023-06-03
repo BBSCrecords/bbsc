@@ -2435,3 +2435,20 @@ KOLKATA 58
  paid : 380
  advance : 0
  total_due : 0
+
+ date : 2023-06-03
+ renew_date : 2023-07-02
+ name : BIMALENDU BHATTACHARJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306031700
+ fta : 130
+ pay_ch : 168
+ ncf : 20
+ hardware : 0
+ p_due : 5
+ total : 380  (380.2)
+ paid : 380
+ advance : 0
+ total_due : 0
