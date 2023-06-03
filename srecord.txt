@@ -2418,3 +2418,20 @@ KOLKATA 58
  total : 460  (460.2)
  advance : 0
  total_due : 0
+
+ date : 2023-06-03
+ renew_date : 2023-07-02
+ name : BIMALANDU SENGUPTA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306031656
+ fta : 130
+ pay_ch : 168
+ ncf : 20
+ hardware : 0
+ p_due : 5
+ total : 380  (380.2)
+ paid : 380
+ advance : 0
+ total_due : 0
