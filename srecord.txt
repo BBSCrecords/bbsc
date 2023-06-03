@@ -2503,3 +2503,20 @@ KOLKATA 58
  total : 271  (270.8)
  advance : 0
  total_due : 0
+
+ date : 2023-06-03
+ renew_date : 2023-06-23
+ name : KALLYAN CHAKRABORTY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306031810
+ fta : 313.3
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : MAY 2023  0
+ total : 370  (369.6)
+ advance : 0
+ total_due : 0
