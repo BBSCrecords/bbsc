@@ -2571,3 +2571,20 @@ KOLKATA 58
  paid : 460
  advance : 0
  total_due : 0
+
+ date : 2023-06-05
+ renew_date : 2023-07-04
+ name : jochna hazra
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306051022
+ fta : 130
+ pay_ch : 38
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 222  (221.8)
+ paid : 222
+ advance : 0
+ total_due : 0
