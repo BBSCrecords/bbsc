@@ -2588,3 +2588,20 @@ KOLKATA 58
  paid : 222
  advance : 0
  total_due : 0
+
+ date : 2023-06-06
+ renew_date : 2023-06-24
+ name : PINTU ORAW
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306061858
+ fta : 339
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : MAY 23  0
+ total : 400  (400.0)
+ advance : 0
+ total_due : 0
