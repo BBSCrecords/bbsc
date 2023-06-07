@@ -2639,3 +2639,20 @@ KOLKATA 58
  paid : 240
  advance : 0
  total_due : 0
+
+ date : 2023-06-07
+ renew_date : 2023-06-29
+ name : ASHIS SARKAR
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306071039
+ fta : 130
+ pay_ch : 74.2
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 265  (264.5)
+ paid : 265
+ advance : 0
+ total_due : 0
