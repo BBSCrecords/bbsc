@@ -2724,3 +2724,20 @@ KOLKATA 58
  paid : 320
  advance : 0
  total_due : 0
+
+ date : 2023-06-07
+ renew_date : 2023-07-06
+ name : SWAPAN GIRI
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306071841
+ fta : 313.3
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.6)
+ paid : 370
+ advance : 0
+ total_due : 0
