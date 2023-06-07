@@ -2673,3 +2673,20 @@ KOLKATA 58
  total : 564  (564.0)
  advance : 0
  total_due : 0
+
+ date : 2023-06-07
+ renew_date : 2023-07-02
+ name : ashok nandi
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306071639
+ fta : 130
+ pay_ch : 121
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 320  (319.7)
+ paid : 320
+ advance : 0
+ total_due : 0
