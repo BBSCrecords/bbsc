@@ -2741,3 +2741,20 @@ KOLKATA 58
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-06-09
+ renew_date : 2023-07-07
+ name : SUMADHUR CHATTERJEE
+ address : THIKANA APP
+ phn_no : NILL
+ vc : NILL
+ bill : 2306091110
+ fta : 130
+ pay_ch : 70
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ mnth_of : JUNE  585
+ total : 845  (844.6)
+ advance : 0
+ total_due : 0
