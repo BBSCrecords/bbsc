@@ -2928,3 +2928,20 @@ KOLKATA 58
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-06-10
+ renew_date : 2023-07-10
+ name : arindam banerjee
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306101824
+ fta : 322
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 380  (379.9)
+ paid : 380
+ advance : 0
+ total_due : 0
