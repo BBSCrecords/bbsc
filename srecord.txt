@@ -2775,3 +2775,20 @@ KOLKATA 58
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-06-10
+ renew_date : 2023-07-2
+ name : JOYANTA HAZARY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306101041
+ fta : 237
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 30
+ total : 310  (309.6)
+ paid : 310
+ advance : 0
+ total_due : 0
