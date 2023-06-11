@@ -3047,3 +3047,20 @@ KOLKATA 58
  paid : 444
  advance : 0
  total_due : 0
+
+ date : 2023-06-11
+ renew_date : 2023-07-05
+ name : TARAK DASGUPTA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306111250
+ fta : 130
+ pay_ch : 19.2
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 200  (199.6)
+ paid : 200
+ advance : 0
+ total_due : 0
