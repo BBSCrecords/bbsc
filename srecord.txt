@@ -3081,3 +3081,20 @@ KOLKATA 58
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-06-11
+ renew_date : 2023-07-11
+ name : SUBRATA GHOTOK
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306111757
+ fta : 130
+ pay_ch : 87
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 280
+ advance : 0
+ total_due : 0
