@@ -3030,3 +3030,20 @@ KOLKATA 58
  paid : 300
  advance : 0
  total_due : 0
+
+ date : 2023-06-11
+ renew_date : 2023-07-10
+ name : CHANDAN GHOSH
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306111216
+ fta : 364
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 14
+ total : 444  (443.5)
+ paid : 444
+ advance : 0
+ total_due : 0
