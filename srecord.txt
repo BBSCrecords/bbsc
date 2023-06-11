@@ -2996,3 +2996,20 @@ KOLKATA 58
  total : 271  (271.4)
  advance : 0
  total_due : 0
+
+ date : 2023-06-11
+ renew_date : 2023-07-08
+ name : rakesh seth
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306111042
+ fta : 130
+ pay_ch : 121
+ ncf : 20
+ hardware : 0
+ p_due : 320
+ total : 640  (639.7)
+ paid : 640
+ advance : 0
+ total_due : 0
