@@ -3098,3 +3098,20 @@ KOLKATA 58
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-06-12
+ renew_date : 2023-07-2
+ name : RAM KISHOR MAHALI
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306121251
+ fta : 313.2
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.5)
+ paid : 300
+ advance : 0
+ total_due : 70
