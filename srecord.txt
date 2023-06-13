@@ -3200,3 +3200,20 @@ KOLKATA 58
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-06-13
+ renew_date : 2023-07-1
+ name : UTTAM ORAW
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306131819
+ fta : 390
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 460  (460.2)
+ paid : 460
+ advance : 0
+ total_due : 0
