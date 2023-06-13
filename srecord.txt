@@ -3132,3 +3132,20 @@ KOLKATA 58
  paid : 460
  advance : 0
  total_due : 0
+
+ date : 2023-06-13
+ renew_date : 2023-06-20
+ name : DIPALI MONDAL2
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306131123
+ fta : 130
+ pay_ch : 38
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 222  (221.8)
+ paid : 222
+ advance : 0
+ total_due : 0
