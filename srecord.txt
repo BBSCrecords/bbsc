@@ -3149,3 +3149,20 @@ KOLKATA 58
  paid : 222
  advance : 0
  total_due : 0
+
+ date : 2023-06-13
+ renew_date : 2023-07-12
+ name : REKHA  BHATTACHARJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306131127
+ fta : 297
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 350  (350.4)
+ paid : 350
+ advance : 0
+ total_due : 0
