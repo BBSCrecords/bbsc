@@ -3234,3 +3234,20 @@ KOLKATA 58
  paid : 340
  advance : 0
  total_due : 0
+
+ date : 2023-06-13
+ renew_date : 2023-10-11
+ name : DEB KR CHAKRABORTY
+ address : NILL
+ phn_no : NILL
+ vc : JAGUAR 3+1
+ bill : 2306131912
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : 14 JUNE-11 OCT  1770
+ total : 1770  (1770.0)
+ advance : 0
+ total_due : 0
