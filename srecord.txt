@@ -3251,3 +3251,20 @@ KOLKATA 58
  total : 1770  (1770.0)
  advance : 0
  total_due : 0
+
+ date : 2023-06-14
+ renew_date : 2023-07-17
+ name : debangshu majumder
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306141911
+ fta : 130
+ pay_ch : 147
+ ncf : 20
+ hardware : 0
+ p_due : 37
+ total : 387  (387.4)
+ paid : 387
+ advance : 0
+ total_due : 0
