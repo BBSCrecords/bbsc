@@ -3285,3 +3285,22 @@ KOLKATA 58
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-06-17
+ renew_date : 2023-07-16
+ name : BANK OF INDIA
+ address : B.T.ROAD
+KAMAHATTY BRANCH
+KOLKATA 56
+ phn_no : NILL
+ vc : 401130110000123
+ bill : 2306171018
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : JUNE'2023  825
+ total : 825  (825.0)
+ advance : 0
+ total_due : 0
