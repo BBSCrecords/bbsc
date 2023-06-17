@@ -3268,3 +3268,20 @@ KOLKATA 58
  paid : 387
  advance : 0
  total_due : 0
+
+ date : 2023-06-17
+ renew_date : 2023-07-16
+ name : RAMPRASAD DEY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306171003
+ fta : 237
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 280
+ advance : 0
+ total_due : 0
