@@ -3304,3 +3304,20 @@ KOLKATA 56
  total : 825  (825.0)
  advance : 0
  total_due : 0
+
+ date : 2023-06-17
+ renew_date : 2023-07-17
+ name : SWAPAN KR PAL
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306171003
+ fta : 130
+ pay_ch : 127
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 350  (350.4)
+ paid : 350
+ advance : 0
+ total_due : 0
