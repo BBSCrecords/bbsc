@@ -3355,3 +3355,20 @@ KOLKATA 56
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-06-18
+ renew_date : 2023-07-17
+ name : RABINDRA NATHA BOSE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306181101
+ fta : 130
+ pay_ch : 19.2
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 200  (199.6)
+ paid : 200
+ advance : 0
+ total_due : 0
