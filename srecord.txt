@@ -3423,3 +3423,20 @@ KOLKATA 56
  total : 225  (225.3)
  advance : 0
  total_due : 0
+
+ date : 2023-06-20
+ renew_date : 2023-07-19
+ name : KOMOLA MOHANTO
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306201223
+ fta : 212
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : NILL  0
+ total : 250  (250.1)
+ advance : 0
+ total_due : 0
