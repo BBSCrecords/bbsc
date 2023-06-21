@@ -3440,3 +3440,20 @@ KOLKATA 56
  total : 250  (250.1)
  advance : 0
  total_due : 0
+
+ date : 2023-06-21
+ renew_date : 2023-07-21
+ name : JHORNA CHATTERJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306211024
+ fta : 130
+ pay_ch : 38
+ ncf : 20
+ hardware : 0
+ p_due : 22
+ total : 244  (243.8)
+ paid : 244
+ advance : 0
+ total_due : 0
