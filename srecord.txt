@@ -3457,3 +3457,20 @@ KOLKATA 56
  paid : 244
  advance : 0
  total_due : 0
+
+ date : 2023-06-21
+ renew_date : 2023-07-20
+ name : KRISHNA SAMANTA
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306211048
+ fta : 220
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 5
+ total : 265  (264.6)
+ paid : 265
+ advance : 0
+ total_due : 0
