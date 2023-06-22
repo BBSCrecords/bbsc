@@ -3576,3 +3576,20 @@ KOLKATA 56
  paid : 320
  advance : 0
  total_due : 0
+
+ date : 2023-06-22
+ renew_date : 2023-07-21
+ name : DEBDEEP SARKAR
+ address : KING  TOWER
+ phn_no : NILL
+ vc : NILL
+ bill : 2306221107
+ fta : 220
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 260  (259.6)
+ paid : 260
+ advance : 0
+ total_due : 0
