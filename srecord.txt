@@ -3644,3 +3644,20 @@ KOLKATA 56
  paid : 290
  advance : 0
  total_due : 0
+
+ date : 2023-06-24
+ renew_date : 2023-07-23
+ name : CHAYA DAS
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306241056
+ fta : 313.2
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 50
+ total : 420  (419.5)
+ paid : 420
+ advance : 0
+ total_due : 0
