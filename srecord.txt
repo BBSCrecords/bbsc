@@ -3729,3 +3729,20 @@ KOLKATA 56
  paid : 340
  advance : 0
  total_due : 0
+
+ date : 2023-06-25
+ renew_date : 2023-07-24
+ name : TAPAS DEY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306251739
+ fta : 313.4
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.8)
+ paid : 370
+ advance : 0
+ total_due : 0
