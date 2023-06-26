@@ -3831,3 +3831,20 @@ KOLKATA 56
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-06-26
+ renew_date : 2023-07-25
+ name : KOBITA KOR
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306261112
+ fta : 288
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 340  (339.8)
+ paid : 340
+ advance : 0
+ total_due : 0
