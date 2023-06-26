@@ -3899,3 +3899,20 @@ KOLKATA 56
  paid : 330
  advance : 0
  total_due : 0
+
+ date : 2023-06-26
+ renew_date : 2023-07-25
+ name : MIHIR MUKHERJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306261254
+ fta : 130
+ pay_ch : 1
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 155  (154.5)
+ paid : 155
+ advance : 0
+ total_due : 0
