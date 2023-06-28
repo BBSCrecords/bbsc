@@ -4018,3 +4018,20 @@ KOLKATA 56
  paid : 340
  advance : 0
  total_due : 0
+
+ date : 2023-06-28
+ renew_date : 2023-07-28
+ name : KAJAL PRIYA BAL
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306281009
+ fta : 390
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 460  (460.2)
+ paid : 460
+ advance : 0
+ total_due : 0
