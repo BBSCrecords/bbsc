@@ -4001,3 +4001,20 @@ KOLKATA 56
  paid : 200
  advance : 0
  total_due : 115
+
+ date : 2023-06-28
+ renew_date : 2023-07-26
+ name : KASHI NATH MAITY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306280952
+ fta : 288
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 340  (339.8)
+ paid : 340
+ advance : 0
+ total_due : 0
