@@ -4052,3 +4052,20 @@ KOLKATA 56
  paid : 340
  advance : 0
  total_due : 0
+
+ date : 2023-06-30
+ renew_date : 2023-07-29
+ name : jhuma chatterjee
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306301056
+ fta : 130
+ pay_ch : 104
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 300  (299.7)
+ paid : 300
+ advance : 0
+ total_due : 0
