@@ -4069,3 +4069,20 @@ KOLKATA 56
  paid : 300
  advance : 0
  total_due : 0
+
+ date : 2023-06-30
+ renew_date : 2023-07-27
+ name : sephali chakraborty
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2306301821
+ fta : 130
+ pay_ch : 49
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 235  (234.8)
+ paid : 235
+ advance : 0
+ total_due : 0
