@@ -4086,3 +4086,20 @@ KOLKATA 56
  paid : 235
  advance : 0
  total_due : 0
+
+ date : 2023-07-01
+ renew_date : 2023-08-2
+ name : SIBANI DAS
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307011044
+ fta : 130
+ pay_ch : 262
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ mnth_of : JULY 23(NET)  585
+ total : 1095  (1094.7)
+ advance : 0
+ total_due : 0
