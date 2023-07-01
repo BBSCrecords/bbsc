@@ -4137,3 +4137,20 @@ KOLKATA 56
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-07-01
+ renew_date : 2023-07-30
+ name : TINKU SINGH
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307011220
+ fta : 314.2
+ pay_ch : 12
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 385  (384.9)
+ paid : 385
+ advance : 0
+ total_due : 0
