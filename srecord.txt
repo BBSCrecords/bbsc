@@ -4120,3 +4120,20 @@ KOLKATA 56
  total : 905  (904.7)
  advance : 0
  total_due : 0
+
+ date : 2023-07-01
+ renew_date : 2023-07-30
+ name : RADHE MAHALI
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307011147
+ fta : 313.2
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.5)
+ paid : 370
+ advance : 0
+ total_due : 0
