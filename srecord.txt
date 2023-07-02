@@ -4154,3 +4154,20 @@ KOLKATA 56
  paid : 385
  advance : 0
  total_due : 0
+
+ date : 2023-07-02
+ renew_date : 2023-07-31
+ name : GOPAL BHATTACHARJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307021006
+ fta : 130
+ pay_ch : 34
+ ncf : 020
+ hardware : 0
+ p_due : 0
+ total : 217  (217.1)
+ paid : 217
+ advance : 0
+ total_due : 0
