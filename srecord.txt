@@ -4188,3 +4188,20 @@ KOLKATA 56
  paid : 370
  advance : 0
  total_due : 0
+
+ date : 2023-07-02
+ renew_date : 2023-07-31
+ name : RANU GURUNG
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307021821
+ fta : 130
+ pay_ch : 121
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 320  (319.7)
+ paid : 320
+ advance : 0
+ total_due : 0
