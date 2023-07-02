@@ -4171,3 +4171,20 @@ KOLKATA 56
  paid : 217
  advance : 0
  total_due : 0
+
+ date : 2023-07-02
+ renew_date : 2023-06-29
+ name : BABLU SINGH
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307021820
+ fta : 313.2
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 370  (369.5)
+ paid : 370
+ advance : 0
+ total_due : 0
