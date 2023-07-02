@@ -4222,3 +4222,20 @@ KOLKATA 56
  paid : 0
  advance : 0
  total_due : 0
+
+ date : 2023-07-02
+ renew_date : 2023-07-31
+ name : DEBDAS MAJHI
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307021825
+ fta : 254.
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 300  (299.7)
+ paid : 300
+ advance : 0
+ total_due : 0
