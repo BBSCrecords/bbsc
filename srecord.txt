@@ -4307,3 +4307,20 @@ KOLKATA 56
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-06-11
+ renew_date : 2023-07-10
+ name : CADMACH MECHINARY CO. PVT.LTD.
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307031242
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : JUNE 23  585
+ total : 585  (585.0)
+ advance : 0
+ total_due : 0
