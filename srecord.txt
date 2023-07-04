@@ -4341,3 +4341,20 @@ KOLKATA 56
  paid : 350
  advance : 0
  total_due : 0
+
+ date : 2023-07-04
+ renew_date : 2023-07-09
+ name : koushallya mahali
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307041323
+ fta : 288
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ mnth_of : june 23  0
+ total : 340  (339.8)
+ advance : 0
+ total_due : 0
