@@ -4528,3 +4528,20 @@ KOLKATA 56
  paid : 283
  advance : 0
  total_due : 0
+
+ date : 2023-07-08
+ renew_date : 2024-08-06
+ name : AMIT BHATTACHARJEE
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307081724
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 1500
+ p_due : 0
+ mnth_of : NILL  0
+ total : 1500  (1500.0)
+ advance : 0
+ total_due : 500
