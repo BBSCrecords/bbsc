@@ -4426,3 +4426,20 @@ KOLKATA 56
  paid : 380
  advance : 104
  total_due : -84
+
+ date : 2023-07-08
+ renew_date : 2023-08-01
+ name : ALOKE CHAKRABORTY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307080958
+ fta : 130
+ pay_ch : 127
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ mnth_of : JUNE 23  350
+ total : 700  (700.4)
+ advance : 0
+ total_due : 350
