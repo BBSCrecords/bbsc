@@ -4545,3 +4545,20 @@ KOLKATA 56
  total : 1500  (1500.0)
  advance : 0
  total_due : 500
+
+ date : 2023-07-08
+ renew_date : 2023-07-24
+ name : AMIYA MALLICK
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307081803
+ fta : 237
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 280
+ advance : 0
+ total_due : 0
