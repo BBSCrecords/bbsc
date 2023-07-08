@@ -4477,3 +4477,20 @@ KOLKATA 56
  paid : 280
  advance : 0
  total_due : 0
+
+ date : 2023-07-08
+ renew_date : 2023-08-05
+ name : GOUTAM BAG
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307081116
+ fta : 237
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 10
+ total : 290  (289.6)
+ paid : 290
+ advance : 0
+ total_due : 0
