@@ -4800,3 +4800,20 @@ KOLKATA 56
  paid : 460
  advance : 0
  total_due : 0
+
+ date : 2023-07-12
+ renew_date : 2023-08-11
+ name : manindra nath mahato
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307121009
+ fta : 390
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 460  (460.2)
+ paid : 460
+ advance : 0
+ total_due : 0
