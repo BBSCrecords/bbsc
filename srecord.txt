@@ -4887,3 +4887,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-14
+ renew_date : 2023-08-15
+ name : PRIYA CHOWDHURY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307141918
+ fta : 130
+ pay_ch : 38
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 222  (221.8)
+ paid : 222
+ advance : 0
+  discount : 0
+ total_due : 0
