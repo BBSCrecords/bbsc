@@ -4923,3 +4923,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-15
+ renew_date : 2023-08-12
+ name : NAREN DEY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307151116
+ fta : 130
+ pay_ch : 127
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 350  (350.4)
+ paid : 350
+ advance : 0
+  discount : 0
+ total_due : 0
