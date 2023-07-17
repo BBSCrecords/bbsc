@@ -5049,3 +5049,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-17
+ renew_date : 2023-07-22
+ name : DILIP CHAKRABORTY
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307171034
+ fta : 220
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 260  (259.6)
+ paid : 260
+ advance : 0
+  discount : 0
+ total_due : 0
