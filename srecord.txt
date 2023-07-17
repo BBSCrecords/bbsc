@@ -5121,3 +5121,21 @@ KOLKATA 56
  advance : 0
  discount : 0
  total_due : 1000
+
+ date : 2023-07-17
+ renew_date : 2023-08-15
+ name : NANU MAHALI
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307171925
+ fta : 288
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 340  (339.8)
+ paid : 340
+ advance : 0
+  discount : 0
+ total_due : 0
