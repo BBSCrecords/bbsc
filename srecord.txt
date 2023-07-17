@@ -5103,3 +5103,21 @@ KOLKATA 56
  advance : 0
  discount : 0
  total_due : 0
+
+ date : 2023-07-17
+ renew_date : 2023-08-15
+ name : bhadra
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307171913
+ fta : 0
+ pay_ch : 0
+ ncf : 0
+ hardware : 2500
+ p_due : 0
+ mnth_of : july23  585
+ total : 3085  (3085.0)
+ advance : 0
+ discount : 0
+ total_due : 1000
