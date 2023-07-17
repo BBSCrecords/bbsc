@@ -5067,3 +5067,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-13
+ renew_date : 2023-07-12
+ name : KRISHNA SARKAR
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307171053
+ fta : 130
+ pay_ch : 147
+ ncf : 40
+ hardware : 0
+ p_due : 0
+ total : 374  (374.0)
+ paid : 374
+ advance : 0
+  discount : 0
+ total_due : 0
