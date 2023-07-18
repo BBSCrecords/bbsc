@@ -5139,3 +5139,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-18
+ renew_date : 2023-07-19
+ name : rupa nayak
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307181028
+ fta : 130
+ pay_ch : 97.5
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 292  (292.0)
+ paid : 292
+ advance : 0
+  discount : 0
+ total_due : 0
