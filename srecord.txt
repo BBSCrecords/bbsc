@@ -5157,3 +5157,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-18
+ renew_date : 2023-08-16
+ name : AMAL KR DAS
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307181059
+ fta : 237
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 280  (279.6)
+ paid : 280
+ advance : 0
+  discount : 0
+ total_due : 0
