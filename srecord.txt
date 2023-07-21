@@ -5319,3 +5319,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-21
+ renew_date : 2023-08-20
+ name : ajit kr saha
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307211929
+ fta : 254.3
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 0
+ total : 300  (300.0)
+ paid : 300
+ advance : 0
+  discount : 0
+ total_due : 0
