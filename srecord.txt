@@ -5355,3 +5355,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-22
+ renew_date : 2023-08-20
+ name : debdeep sarkar
+ address : 130
+ phn_no : NILL
+ vc : NILL
+ bill : 2307221747
+ fta : 130
+ pay_ch : 70
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 260  (259.6)
+ paid : 260
+ advance : 0
+  discount : 0
+ total_due : 0
