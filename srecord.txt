@@ -5427,3 +5427,21 @@ KOLKATA 56
  advance : 0
   discount : 0
  total_due : 0
+
+ date : 2023-07-24
+ renew_date : 2023-08-22
+ name : mamata roy
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307241035
+ fta : 130
+ pay_ch : 38
+ ncf : 20
+ hardware : 0
+ p_due : 0
+ total : 222  (221.8)
+ paid : 222
+ advance : 0
+  discount : 0
+ total_due : 0
