@@ -5463,3 +5463,21 @@ KOLKATA 56
  advance : 0
  discount : 0
  total_due : 0
+
+ date : 2023-07-25
+ renew_date : 2023-08-23
+ name : menoka sadhukha
+ address : NILL
+ phn_no : NILL
+ vc : NILL
+ bill : 2307251138
+ fta : 220
+ pay_ch : 0
+ ncf : 0
+ hardware : 0
+ p_due : 8
+ total : 268  (267.6)
+ paid : 260
+ advance : 0
+  discount : 0
+ total_due : 8
